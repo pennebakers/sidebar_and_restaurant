@@ -1,0 +1,11 @@
+{
+  "name": "sidebar_and_restaurant",
+  "version": "1.0.0",
+  "description": "revamp personal twist of my current work place sidebar_and_restaurant located in West Chester,Pa 19382. This will be initialized with npm init, then a server file will be created which will hold the index.js file. While we will have another root folder that will hold the react project which will be initialized with crate-react-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seth Pennebaker",
+  "license": "ISC"
+}
